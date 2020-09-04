@@ -9,15 +9,12 @@ This is my first demo project
 In the world of Abraham Lincoln:
 > Paradon my French
 
-Use 'git status' to list all new or modified files that haven't yet been commited.
+Use `git status` to list all new or modified files that haven't yet been commited.
 
-Some basis Commands are:
-~ ~ ~
-git status 
-git add 
-git commit
-
-~ ~ ~
+` ` `git status 
+     git add 
+     git commit
+` ` `
 
 This site was built using [GitHub Pages](https://pages.github.com/)
 
